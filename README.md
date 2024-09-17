@@ -31,13 +31,16 @@ Make sure you have the following installed on your machine:
    ```bash
    git clone https://github.com/HPhucNg/ToDo-App-NextJS.git
 2. Install the dependencies
-    npm install
-   
-    npm install next react react-dom
-   
+    ```bash
+       npm install
+   ```
+   ```bash
+       npm install next react react-dom
+   ```
 Running the App
 To start the development server:
-
- npm run dev
+   ```bash
+    npm run dev
+   ```
 
 Open http://localhost:3000 in your browser to see the app.
