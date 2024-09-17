@@ -37,6 +37,7 @@ Make sure you have the following installed on your machine:
    
 Running the App
 To start the development server:
-npm run dev
+
+ npm run dev
 
 Open http://localhost:3000 in your browser to see the app.
