@@ -35,12 +35,12 @@ Make sure you have the following installed on your machine:
        npm install
    ```
    ```bash
-       npm install next react react-dom
+      npm install next react react-dom
    ```
 Running the App
 To start the development server:
    ```bash
-    npm run dev
+     npm run dev
    ```
 
 Open http://localhost:3000 in your browser to see the app.
