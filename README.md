@@ -32,6 +32,7 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/HPhucNg/ToDo-App-NextJS.git
 2. Install the dependencies
     npm install
+   
     npm install next react react-dom
    
 Running the App
